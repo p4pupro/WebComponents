@@ -24,6 +24,7 @@ class WebComponent extends HTMLElement {
     <style>${WebComponent.styles}</style>
     <div class="container">
       <h1>Welcome to WebComponents Boilerplate</h1>
+      <p>This is a single boilerplate for creating WebComponents.</p>
     </div>`;
   }
 }
